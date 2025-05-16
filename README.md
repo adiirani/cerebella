@@ -42,4 +42,4 @@ Cerebella was created as a solution for **Honeywell** during the Aerospace Facto
 
 ## 📞 Get in Touch
 
-Interested in learning more or seeing a demo? Let’s connect!
+[Apache 2.0](LICENSE)
