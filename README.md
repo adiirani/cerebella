@@ -40,6 +40,6 @@ Cerebella was created as a solution for **Honeywell** during the Aerospace Facto
 
 ---
 
-## 📞 Get in Touch
+## LICENSE
 
 [Apache 2.0](LICENSE)
